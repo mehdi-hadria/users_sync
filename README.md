@@ -4,7 +4,7 @@ This Airflow DAG aims to synchronize the users and groups in Azure active direct
 
 ## Overview: 
 
-
+![picture](overview.png)
 ## 
 
 
